@@ -16,5 +16,5 @@ jobs:
     - name: Install dependencies
       run: |
         # install requirements file requirements.txt
-        pip ionstall -r requirements.txt
+        pip install -r requirements.txt
 
